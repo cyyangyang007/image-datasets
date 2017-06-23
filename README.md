@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hey Git!
+
+This is my first repository.
+I am editing my first branch!
